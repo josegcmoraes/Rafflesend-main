@@ -1,0 +1,25 @@
+Insomnia
+..........Get..........
+http://localhost:3333/raffles
+
+
+
+..........POST.........
+http://localhost:3333/raffles
+
+Json
+{
+	"quantity": 500,
+	"statusRaffle": []
+}
+
+
+
+.........Update.........
+
+
+Executar
+yarn dev
+
+MongoDb
+criar banco e passar e colocar o link no arquivo server; linha 8
